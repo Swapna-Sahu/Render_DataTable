@@ -16,4 +16,6 @@
       Column sorting
       Filter by status
       Filter by offer type
-      Rest filter
+      Reset filter
+
+Thank you !
